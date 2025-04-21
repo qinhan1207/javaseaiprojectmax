@@ -14,6 +14,7 @@ public class FileInputStreamDemo03 {
 
         String s = new String(bytes);
         System.out.print(s);
+        is.close();
 
     }
 }

@@ -17,6 +17,7 @@ public class FileInputStreamDemo01 {
             System.out.print((char) b);
         }
         // 每次读取一个字节的问题：性能较差，读取汉字输出一定会乱码
+        is.close();
 
     }
 }
