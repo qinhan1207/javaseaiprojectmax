@@ -10,4 +10,9 @@ public class RecursionDemo01 {
         System.out.println("A执行了");
         printA();
     }
+
+    // 学习git，解决冲突
+    public static void print01(){
+        System.out.println("我在学习git");
+    }
 }
