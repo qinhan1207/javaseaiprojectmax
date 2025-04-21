@@ -12,4 +12,8 @@ public class RecursionDemo02 {
         }
         return f(n-1)*n; // 递归调用
     }
+
+    public static void print02(){
+        System.out.println("我也在学习git");
+    }
 }
