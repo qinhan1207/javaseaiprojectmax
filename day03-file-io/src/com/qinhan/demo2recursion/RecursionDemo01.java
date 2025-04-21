@@ -16,7 +16,12 @@ public class RecursionDemo01 {
         System.out.println("我在学习git");
     }
 
-    public static void print04(){
+
+    public static void print04() {
         System.out.println("添加print04功能");
+    }
+    public static void print03(){
+        System.out.println("print03");
+
     }
 }
