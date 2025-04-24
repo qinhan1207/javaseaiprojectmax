@@ -1,6 +1,6 @@
 package com.qinhan.demo1create;
 
-public class Test {
+public class ThreadDemo01 {
     // main方法本身是有一条主线程负责推荐执行的
     public static void main(String[] args) {
         // 目标：认识多线程，掌握创建多线程的方式一，继承thread类
