@@ -1,4 +1,4 @@
-package com.qinhan.threadsafe;
+package com.qinhan.demo3threadsafe;
 
 public class ThreadDemo01 {
     public static void main(String[] args) {

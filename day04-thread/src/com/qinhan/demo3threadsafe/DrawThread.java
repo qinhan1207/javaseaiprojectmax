@@ -1,4 +1,4 @@
-package com.qinhan.threadsafe;
+package com.qinhan.demo3threadsafe;
 
 public class DrawThread extends Thread {
 
