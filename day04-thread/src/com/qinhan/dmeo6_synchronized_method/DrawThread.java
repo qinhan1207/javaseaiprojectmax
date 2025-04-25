@@ -1,4 +1,4 @@
-package com.qinhan.dmeo5_synchronized_method;
+package com.qinhan.dmeo6_synchronized_method;
 
 public class DrawThread extends Thread {
 
