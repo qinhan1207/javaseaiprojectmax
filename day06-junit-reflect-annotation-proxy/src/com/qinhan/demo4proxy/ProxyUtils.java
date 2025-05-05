@@ -1,4 +1,4 @@
-package com.qinhan.dmeo4proxy;
+package com.qinhan.demo4proxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

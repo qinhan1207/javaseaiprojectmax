@@ -1,4 +1,4 @@
-package com.qinhan.dmeo4proxy;
+package com.qinhan.demo4proxy;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

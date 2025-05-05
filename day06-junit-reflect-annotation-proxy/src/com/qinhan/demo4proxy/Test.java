@@ -1,6 +1,4 @@
-package com.qinhan.dmeo4proxy;
-
-import java.lang.reflect.Proxy;
+package com.qinhan.demo4proxy;
 
 public class Test {
     public static void main(String[] args) {
